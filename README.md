@@ -20,7 +20,6 @@ a. edit the collect/go.sh file and update the username to your required username
 
 b. If you do not have existing keys that you use, Generate your SSH key pair by runing the following:
 
-#keep the passphrase empty
 
 ssh-keygen -t dsa -f key
 
